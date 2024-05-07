@@ -5,5 +5,6 @@
 <p>
 
 ## Technologies
-* Wordpress - version 5.6
+* Wordpress
+* Elementor
 
